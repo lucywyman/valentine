@@ -3,7 +3,7 @@ valentine
 
 A valentine for a friend
 
-To make go:
+Currently numpy from pip is not working, use the following to setup valentine:
   ```
   sudo apt-get install python3-numpy
   sudo apt-get install python-matplotlib
